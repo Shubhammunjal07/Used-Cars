@@ -1,5 +1,5 @@
 # Used-Cars
-Users search cars according to their preference's.
+User can search cars according to their preference's.
 
 # Requirements
 Numpy
